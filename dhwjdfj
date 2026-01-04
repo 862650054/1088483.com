@@ -1,4 +1,4 @@
-自述文件。#建造的东西
+自述文件。 #建造的东西
 调试(_D)/
 编译/
 
@@ -6,18 +6,18 @@
 音频缓存/
 
 #Lockfile
-_OpenInEditor.lock
+_OpenInEditor。
 
 #用户设置
-Game.agf.user
-*.crm.user
+游戏。
+*.
 
 备份数量
-Game.agf.bak
-backup_acsprset.spr
+游戏。
+backup_acsprset。
 
 内存转储次数
-*.dmp
+*.
 
 #临时文件
 #在精灵或房间背景压缩期间临时创建
